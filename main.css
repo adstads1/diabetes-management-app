@@ -1,0 +1,301 @@
+/*-----------------Overriding materialize fonts and colors------------------*/
+
+/*Body and h's*/
+body {
+	background-color: #252525 !important;
+}
+.btn{
+	background-color: #AF0404 !important;
+	color: #DBD2D2;
+  text-transform: none;
+}
+
+h1 {
+	font-size:24px;
+	color: #DBD2D2;
+}
+
+h2 {
+	font-size:20px;
+	color: #DBD2D2;
+}
+
+h3 {
+	font-size:16px;
+	color: #DBD2D2;
+}
+
+h4 {
+	font-size:14px;
+	color: #DBD2D2;
+}
+
+h5 {
+	font-size:12px;
+	color: #DBD2D2;
+}
+
+/*******************/
+
+/*Customizing form size*/
+
+form {
+	margin-top:10px; 
+	margin-bottom: 0px; 
+	padding: 0px;
+}
+
+/*******************/
+
+/*Customizing save button*/
+
+#save_reading{
+  width:120px;
+  margin-bottom: 0px;
+}
+
+#save-button-position{ 
+ /*bottom: -15px;*/
+}
+
+/************************/
+.table-border {
+
+  border: 2px solid #0f0f0f;
+  border-collapse: collapse;
+  border-radius: 3px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+  0 7px 20px 0 rgba(0, 0, 0, 0.99);
+  
+}
+
+.table-gap {
+  padding: 10px;
+}
+
+/*******************/
+
+/* Customizing back button */
+
+.back-btn {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+/**********************/
+
+/*Customizing help button*/
+
+#help-button {
+
+  /*position: absolute;*/
+  /*bottom: 200px;*/
+  left: 100%;
+  background-color: #DBD2D2;
+
+}
+
+/*************************/
+
+/*Customizing emotion faces*/
+
+#emotion-styling{
+  margin-top: 0px;
+  margin-left: 11px;
+  margin-right: 11px;
+  width: 40px;
+}
+
+/**************************/
+
+/*Customizing model (popup)*/
+
+.modal .modal-content{
+	background-color: #252525 !important;
+	color: #d2d2d2 !important;
+}
+
+.modal .modal-footer{
+	background-color: #252525 !important;
+}
+
+
+.modal .modal-close {
+	color: #d2d2d2 !important;	
+}
+/*******************/
+
+/*Customizing input-field*/
+
+.input-field{
+	padding: 0px !important;
+}
+
+/******************/
+
+/*Change text color*/
+input {
+	color: #DBD2D2 !important;
+}
+
+/******************/
+
+ /* label color for text */
+   .input-field label {
+     color: #DBD2D2 !important;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #DBD2D2 !important;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #DBD2D2 !important;
+     box-shadow: 0 1px 0 0 #DBD2D2 !important;
+   }
+   /* valid color */
+   .input-field input[type=text].valid {
+     border-bottom: 1px solid #DBD2D2 !important;
+     box-shadow: 0 1px 0 0 #000;
+   }
+   /* invalid color */
+   .input-field input[type=text].invalid {
+     border-bottom: 1px solid #DBD2D2 !important;
+     box-shadow: 0 1px 0 0 #000;
+   }
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: #000;
+   }
+
+/*Overriding for password*/
+
+   /* label focus color */
+   .input-field input[type=password]:focus + label {
+     color: #DBD2D2 !important;
+   }
+   /* label underline focus color */
+   .input-field input[type=password]:focus {
+     border-bottom: 1px solid #DBD2D2 !important;
+     box-shadow: 0 1px 0 0 #DBD2D2 !important;
+   }
+   /* valid color */
+   .input-field input[type=password].valid {
+     border-bottom: 1px solid #DBD2D2 !important;
+     box-shadow: 0 1px 0 0 #000;
+   }
+   /* invalid color */
+   .input-field input[type=password].invalid {
+     border-bottom: 1px solid #DBD2D2 !important;
+     box-shadow: 0 1px 0 0 #000;
+   }
+/*******************/
+
+/*Overriding for number*/
+
+   /* label focus color */
+   .input-field input[type=number]:focus + label {
+     color: #DBD2D2 !important;
+   }
+   /* label underline focus color */
+   .input-field input[type=number]:focus {
+     border-bottom: 1px solid #DBD2D2 !important;
+     box-shadow: 0 1px 0 0 #DBD2D2 !important;
+   }
+   /* valid color */
+   .input-field input[type=number].valid {
+     border-bottom: 1px solid #DBD2D2 !important;
+     box-shadow: 0 1px 0 0 #000;
+   }
+   /* invalid color */
+   .input-field input[type=number].invalid {
+     border-bottom: 1px solid #DBD2D2 !important;
+     box-shadow: 0 1px 0 0 #000;
+   }
+/*******************/
+
+/*Customizing range color*/
+.noUi-connect {
+  background-color: #ff0000 !important;
+}
+.noUi-horizontal .noUi-handle, .noUi-vertical .noUi-handle {
+  background-color: #AF0404 !important;
+}
+.noUi-target.noUi-horizontal .noUi-tooltip {
+  background-color: #AF0404 !important;
+}
+
+/******************/
+
+/*Customizing navbar*/
+
+.nav-wrapper{
+	background-color: #AF0404 !important;
+}
+
+.subnav{
+	margin: 0px;
+	background-color: #707070 ;
+	height: 29px;
+	
+}
+
+h4.subtext{
+	margin: 0px !important; 
+	padding-top: 6px !important; 
+	padding-left: 20px !important;
+}
+
+nav .brand-logo{
+	font-size: 20px !important;
+}
+
+/****************/
+
+/*Remoivng margins for */
+.row.mainContent{
+margin-bottom: 0px;	
+}
+/***************/
+
+/*Customizing help button color*/
+
+i.help-color{
+  color: rgb(255, 0, 0);
+}
+
+/******************************/
+
+/*Customizing datepicker*/
+.datepicker-date-display{
+	background-color: #252525 !important;
+}
+
+.datepicker-table td.is-today {
+  color: #d2d2d2 !important;
+}
+
+.datepicker-table td.is-selected {
+  background-color: #ff0000 !important;
+}
+
+.datepicker-container.modal-content{
+	background-color: #414141 !important;
+}
+
+.datepicker-today{
+	color: #ff0000 !important;
+}
+
+/***********************/
+
+/*Customizing TimePicker*/
+
+.timepicker-digital-display{
+	background-color: #414141 !important;
+}
+
+.timepicker-close{
+	color: #ff0000;
+}
+/***********************/

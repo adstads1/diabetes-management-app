@@ -1,0 +1,13 @@
+Fix fetaures:
+
+- Fix Sign up Date. Done***
+- Add back button on Sign up page. Done***
+- Fix graph. Done***
+- Remove Factors side bar and replace with Readings. Done***
+- Add table of inserted records in Readings page. Done**
+- Add help circle button. 
+- Add help page. Done**
+- Add red top title on Report page for fluidity. Done**
+
+- Remove uneccessary html sytling and put into main.css
+- Lastly, indent code accordingly.
