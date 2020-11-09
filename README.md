@@ -45,7 +45,8 @@ This project solified my knowledge of:
     * Agile
     * SCRUM
 
-The DMMWA follows the HCI and Web Design principles
+The DMMWA follows the HCI and Web Design principles.
+© Copyright
 
 
 
