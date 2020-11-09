@@ -14,17 +14,17 @@ Features of the DMMWA include:
 
 This project solified my knowledge of:
 
-  Programming languages:
-    *	HTML 
-    * CSS 
-    * JavaScript 
-    *	PHP (new skill)
+ 1) Programming languages:
+  *	HTML 
+  * CSS 
+  * JavaScript 
+  *	PHP (new skill)
 
-  Database:
-    *	MySQL (SQL)
+ 2) Database:
+  *	MySQL (SQL)
 
-  Cross-platform web server stack package:
-    *	XAMPP (new skill)
+ 3) Cross-platform web server stack package:
+  *	XAMPP (new skill)
     
   Web development IDE:
     *	Dreamweaver (new skill)
