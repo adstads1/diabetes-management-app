@@ -26,24 +26,24 @@ This project solified my knowledge of:
  3) Cross-platform web server stack package:
   *	XAMPP (new skill)
     
-  Web development IDE:
-    *	Dreamweaver (new skill)
+ 4) Web development IDE:
+  *	Dreamweaver (new skill)
 
-  Web development tool:
-    * Chrome DevTool
+ 5) Web development tool:
+  * Chrome DevTool
   
-  UI Tool:
-    * Adobe XD
+ 6) UI Tool:
+  * Adobe XD
 
-  Front-end framework:
-    *	Materialize front end framework (new skill)
+ 7) Front-end framework:
+  *	Materialize front end framework (new skill)
 
-  Web stack:
-    * WAMP web stack (new skill)
+ 8) Web stack:
+  * WAMP web stack (new skill)
 
-  Softawre development Lifecycle:
-    * Agile
-    * SCRUM
+ 9) Softawre development Lifecycle:
+  * Agile
+  * SCRUM
 
 The DMMWA follows the HCI and Web Design principles.
 © Copyright
