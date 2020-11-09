@@ -7,8 +7,8 @@ Features of the DMMWA include:
 * Entering your readings, which also records your recent activity and emotion
 * Dynamically displaying your uniqbbue readings
 * Data vizualize your readings
-* Help page for 
 * Configurating your account
+* Help page for instructions how to use the app
 
 This project solified my knowledge of:
 
