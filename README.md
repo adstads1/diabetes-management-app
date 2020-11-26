@@ -12,7 +12,7 @@ Features of the DMMWA include:
 * Configurating your account
 * Help page for instructions how to use the app
 
-This project solified my knowledge of:
+This project solified my knowledge of
 
  1) Programming languages:
   *	HTML 
