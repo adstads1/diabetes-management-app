@@ -14,7 +14,7 @@ Features of the DMMWA include:
 
 This project solified my knowledge of:
 
- 1) Programming languages
+ 1) Programming languages:
   *	HTML 
   * CSS 
   * JavaScript 
