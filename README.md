@@ -15,10 +15,10 @@ Features of the DMMWA include:
 This project solified my knowledge of:
 
  1) Programming languages:
-   *	HTML 
-  * CSS 
-  * JavaScript 
-  *	PHP (new skill)
+    *	HTML 
+    * CSS 
+    * JavaScript 
+    *	PHP (new skill)
 
  2) Database:
   *	MySQL (SQL)
