@@ -21,29 +21,29 @@ This project solified my knowledge of:
     *	PHP (new skill)
 
  2) Database:
-  *	MySQL (SQL)
+    *	MySQL (SQL)
 
  3) Cross-platform web server stack package:
-  *	XAMPP (new skill)
+    *	XAMPP (new skill)
     
  4) Web development IDE:
-  *	Dreamweaver (new skill)
+    *	Dreamweaver (new skill)
 
  5) Web development tool:
-  * Chrome DevTool
+    * Chrome DevTool
   
  6) UI Tool:
-  * Adobe XD
+    * Adobe XD
 
  7) Front-end framework:
-  *	Materialize front end framework (new skill)
+    *	Materialize front end framework (new skill)
 
  8) Web stack:
-  * WAMP web stack (new skill)
+    * WAMP web stack (new skill)
 
  9) Softawre development Lifecycle:
-  * Agile
-  * SCRUM
+    * Agile
+    * SCRUM
 
 The DMMWA follows the HCI and Web Design principles.
 © Copyright
