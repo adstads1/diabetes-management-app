@@ -304,6 +304,7 @@
   					alert("Emotion: " + checknewEVal + " chosen");
   				});
   			});
+
   			//This function is called by the Onchange attribute on the 'activityTypes' drop down list. This function allows pacific elements to appear and hide depending on the activity chosen which is done instide this method.
   			function activityT() {
   				//Hide elements
@@ -344,10 +345,12 @@
   				if (aDropdownTxt == "Before Breakfast" || aDropdownTxt == "Before Lunch" || aDropdownTxt == "Before Dinner" || aDropdownTxt == "Before Snack" || aDropdownTxt == "After Breakfast" || aDropdownTxt == "After Lunch" || aDropdownTxt == "After Dinner" || aDropdownTxt == "After Snack") {
   					document.getElementById('assignATable').value = nutrition_Table;
 
-  				} else if (aDropdownTxt == "Before Medication" || aDropdownTxt == "After Medication") {
+  				} 
+				else if (aDropdownTxt == "Before Medication" || aDropdownTxt == "After Medication") {
   					document.getElementById('assignATable').value = medication_Table;
 
-  				} else if (aDropdownTxt == "Before Work" || aDropdownTxt == "After Work") {
+  				} 
+				else if (aDropdownTxt == "Before Work" || aDropdownTxt == "After Work") {
   					document.getElementById('assignATable').value = work_Table;
 
   				}
@@ -431,9 +434,11 @@
 						echo "<script>alert('Successfully added reading');</script>";
 					}
 
-				} else {
+				} 
+				else {
 					echo "<script type='text/javascript'>alert('Please fill in all fields');</script>";
 				}
+				
 				//close connection
 				$conn->close();
 			}

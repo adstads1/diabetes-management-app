@@ -18,7 +18,6 @@
 
 	<script src="nouislider\nouislider.js"></script>
 
-
 	<!--Let browser know website is optimized for mobile-->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -93,8 +92,7 @@
 			</div>
 		</form>
 	</div>
-
-
+	
 	<script>
 
 		//Datepicker with day, month and year format

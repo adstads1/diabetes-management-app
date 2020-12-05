@@ -79,6 +79,7 @@
 					$dbusername = $row['userID'];
 					$dbpassword = $row['password'];
 				}
+
 				// When the username and password has successfully matched with the username and password from user table which is stored in $dbusername and $dbpassword.
 				if ($user == $dbusername && $pword == $dbpassword) {
 					//Start session
@@ -89,6 +90,7 @@
 					header("Location:add_reading.php");
 					exit();
 				}
+				
 			}
 			//If the username and password couldn't be found
 			else {

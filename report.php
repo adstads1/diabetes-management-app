@@ -1,9 +1,8 @@
 <?php
 
-//Report no errors. Errors only appear from else statements specified in my code.
-//error_reporting(0);
 //Start session
 session_start();
+
 //If the username hasn't logged in send the user to the login page. 
 if (!isset($_SESSION['ses_user'])) {
 	header("location:index.php");
@@ -74,6 +73,7 @@ else {
 		<div class="subnav">
 			<h4 class="subtext">Report Graph</h4>
 		</div>
+		
 		<h3 class="center-align">Daily Blood Glucose Graph</h3>
 
 		<!--Required imports for rendering graph -->

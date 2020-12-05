@@ -2,6 +2,7 @@
 
 //Start session
 session_start();
+
 //If the username hasn't logged in send the user to the login page. 
 if (!isset($_SESSION['ses_user'])) {
     header("location:index.php");
@@ -149,7 +150,8 @@ else {
         </html>
 <?php
 
-    } else {
+    } 
+    else {
         echo "<script type='text/javascript'>alert('No results found of a reading from the database');</script>";
         die();
     }

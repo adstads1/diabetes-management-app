@@ -2,6 +2,7 @@
 
 //Start session
 session_start();
+
 //If the username hasn't logged in send the user to the login page. 
 if (!isset($_SESSION['ses_user'])) {
 	header("location:index.php");
@@ -207,6 +208,7 @@ else {
 
 			//If the medication field isn't empty.
 			if (!empty($_POST['med_name'])) {
+				
 				$conn = mysqli_connect('localhost', 'root', '', 'diabetes_db');
 
 				//If there's a connection problem
