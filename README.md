@@ -4,7 +4,7 @@ A Diabetes Management Mobile Web App (DMMWA) designed to help individuals who ha
 
 ![](whole_wireframe.PNG)
 
-Features of the DMMWA include
+Features of the DMMWA include:
 * Signing up or logging in to your unique account
 * Entering your readings, which also records your recent activity and emotion
 * Dynamically displaying your uniqbbue readings
