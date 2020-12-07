@@ -45,7 +45,7 @@ This project solified my knowledge of:
     * Agile
     * SCRUM   
 <br>    
-If you wish to run the application you will need to install XAMPP and follow their instructions to testing a webpage.
+If you wish to run the application you will need to install XAMPP and follow their instructions to testing a webpage.<br>
 
 The DMMWA follows the HCI and Web Design principles.<br>
 © Copyright
