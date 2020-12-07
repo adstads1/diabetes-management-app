@@ -43,9 +43,8 @@ This project solified my knowledge of:
 
  9) Softawre development Lifecycle:
     * Agile
-    * SCRUM
-    
-    
+    * SCRUM   
+<br>    
 If you wish to run the application you will need to install XAMPP and follow their instructions to testing a webpage.
 
 The DMMWA follows the HCI and Web Design principles.
