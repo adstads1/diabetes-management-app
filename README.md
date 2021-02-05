@@ -2,7 +2,7 @@
 
 A Diabetes Management Mobile Web App (DMMWA) designed to help individuals who have diabetes to record and manage their diabetes easily.
 
-UX Design
+UX Design:
 ![](wireframe_github.PNG)
 
 Features of the DMMWA include:
