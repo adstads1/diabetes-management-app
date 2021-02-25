@@ -11,7 +11,7 @@ Features of the DMMWA include:
 * Dynamically displaying your unique readings
 * Data vizualize your readings
 * Configurating your account
-* Help page for instructions how to use the app
+* Help page for instructions on how to use the app
 
 This project solified my knowledge of:
 
