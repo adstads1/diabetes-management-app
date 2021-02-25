@@ -8,7 +8,7 @@ UX Design:
 Features of the DMMWA include:
 * Signing up or logging in to your unique account
 * Entering your readings, which also records your recent activity and emotion
-* Dynamically displaying your uniqbbue readings
+* Dynamically displaying your unique readings
 * Data vizualize your readings
 * Configurating your account
 * Help page for instructions how to use the app
